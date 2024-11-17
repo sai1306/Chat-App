@@ -1,2 +1,2 @@
-/src/environments/*.ts
+src/environments/*.ts
 node_modules
